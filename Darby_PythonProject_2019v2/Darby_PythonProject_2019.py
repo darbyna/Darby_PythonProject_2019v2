@@ -10,6 +10,7 @@ print(Introduction)
 #Let us begin by importing the necessary packages for this project. Some may or may not be used. 
 import pandas as pd
 import numpy as np
+%matplotlib inline
 import matplotlib.pyplot as plt
 import colorama 
 from colorama import Fore, Style
