@@ -1,5 +1,7 @@
-# Darby_PythonProject_2019
-Project for Introduction to Python Fall 2019 
+# Project for Introduction to Python Fall 2019 
+
+
+# Introduction
 
 Greetings all,
 
@@ -11,3 +13,29 @@ The code itself will present a plethora of the Python-based abilities that I hav
 
 Enjoy!
 
+
+# Package Installations
+
+It is necessary to install the following packages if attempting to recapitulate this project. With the packages listed below, you will be able to compile data and utilize the tools necessary for concocting a proper survey code: 
+
+  - pandas
+  - numpy 
+  - matplotlib.pyplot
+  - colorama
+  
+Upon installation of the packages above, be certain to patch the "matplotlib.pyplot" package to ensure that your charts are able to be displayed upon calling the ".show()" operation. In order to patch this package, you will require the input of " %matplotlib inline" above the import for matplotlib.pyplot. By executing it above, it will act as a barrier for any "bugs" that can inhibit the display of the chart. 
+
+# Linking Your Data 
+
+Many individuals encounter predicaments when attempting to import their data into their shell. To solve this issue, ensure that your data is in an Excel file, in a table-based format. Then, save your Excel file as a ".csv" file. You can do this by clicking the options for the type of file to save your document as proceeding clicking "save as..". 
+
+After this is complete, you will use the pandas function: pd.read_csv(). As a key step, you must write pd.read_csv(r" the path to your file "). Many may wonder how the path to their file looks. It may be displayed as something like this: "C:\Users\admin\documents\csv_file_name". Of course, you will set this read equal to, for example, "Data" , and begin constructing your charts and graphs from there. 
+
+# Possible References
+
+When developing any coding program, it is quite pleasant to detail any help you received. Credit will go to the following website(s): 
+
+- www.stackoverflow.com
+
+
+The stackoverflow website was of immense assistance while developing this project. There were many bugs that required cleansing and stackoverflow assisted with tips and guidance as to how to eradicate them. Other key guidances such as how to change the color of the text using the colorama package was procured from the stackoverflow website as well.
