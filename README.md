@@ -27,7 +27,7 @@ Upon installation of the packages above, be certain to patch the "matplotlib.pyp
 
 # Linking Your Data 
 
-Many individuals encounter predicaments when attempting to import their data into their shell. To solve this issue, ensure that your data is in an Excel file, in a table-based format. Then, save your Excel file as a ".csv" file. You can do this by clicking the options for the type of file to save your document as proceeding clicking "save as..". 
+Many individuals encounter predicaments when attempting to import their data into their shell. To solve this issue, ensure that your data is in an Excel file, in a table-based format. Then, save your Excel file as a ".csv" file. In chronological order, you must first click "save as..". Proceeding this sep, you must click the options for the file save. Then, you click ".csv" and finally complete the save. 
 
 After this is complete, you will use the pandas function: pd.read_csv(). As a key step, you must write pd.read_csv(r" the path to your file "). Many may wonder how the path to their file looks. It may be displayed as something like this: "C:\Users\admin\documents\csv_file_name". Of course, you will set this read equal to, for example, "Data" , and begin constructing your charts and graphs from there. 
 
