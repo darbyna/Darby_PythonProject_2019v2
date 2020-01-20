@@ -1,4 +1,4 @@
-# Project for Introduction to Python Fall 2019 
+# Loz by Niko Darby 
 
 
 # Introduction
