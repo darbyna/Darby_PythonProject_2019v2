@@ -13,6 +13,9 @@ The code itself will present a plethora of the Python-based abilities that I hav
 
 Enjoy!
 
+#Preview 
+
+![](figure.gif)
 
 # Package Installations
 
