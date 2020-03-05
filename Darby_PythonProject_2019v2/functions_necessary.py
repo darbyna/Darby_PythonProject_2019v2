@@ -1,5 +1,5 @@
-import dt
-import imports_necessary
+from Darby_PythonProject_2019v2 import dt
+from Darby_PythonProject_2019v2 import imports_necessary
 import colorama
 from colorama import Fore, Style
 
