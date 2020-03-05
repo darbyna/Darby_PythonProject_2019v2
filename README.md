@@ -19,7 +19,7 @@ Below you will find a tutorial of how the game is run:
 
 1. You will simply input one of the answers provided:
 
-![](sample1.gif)
+![](Sample2.gif)
 
 2. Once you proceed further into the game, a figure will be displayed:
 
@@ -27,7 +27,7 @@ Below you will find a tutorial of how the game is run:
 
 3. Then after a final input, you will complete the game:
 
-![](sample2.gif)
+![](Sample1.gif)
 
 
 # Package Installations
