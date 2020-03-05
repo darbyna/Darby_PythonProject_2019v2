@@ -13,7 +13,7 @@ Greetings all,
 
 Enjoy!
 
-# Preview
+# Tutorial
 
 Below you will find a tutorial of how the game is run: 
 
