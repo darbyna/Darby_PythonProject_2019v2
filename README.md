@@ -29,6 +29,7 @@ Below you will find a tutorial of how the game is run:
 
 ![](Sample1.gif)
 
+Please enjoy the game and leave a review. 
 
 # Package Installations
 
