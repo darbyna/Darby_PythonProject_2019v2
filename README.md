@@ -15,7 +15,7 @@ Enjoy!
 
 # Tutorial
 
-Below you will find a tutorial of how the game is run: 
+Below you will find a tutorial of how the game is played: 
 
 1. You will simply input one of the answers provided:
 
